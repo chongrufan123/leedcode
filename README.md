@@ -27,3 +27,6 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |20|[example4-2:密码翻译](http://t.cn/Ai8bGaIx) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-2.cpp) | Medium | 2023.1.1|
 |21|[example4-3:简单密码](http://t.cn/Ai8bih2z) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-3.cpp) | Easy | 2023.1.1|
 |22|[example4-4:统计字符](http://t.cn/Ai8fvq4I) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-4.cpp)| Easy | 2023.1.1|
+|23|[example4-5:字母统计](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) | Easy | 2023.1.2|
+|24|[example4-5:字母统计(2)](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) | Easy | 2023.1.2|
+
