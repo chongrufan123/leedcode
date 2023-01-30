@@ -3,7 +3,7 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 
 ## 王道计算机考研机试指南
 
-| cnt | Problem | Solution | Difficulty | Date |
+| cnt | Problem | Solution | Hardy | Date |
 | :---: | :---- | :---- | :---- | :----:|
 | 1 | example2-1:abc |[C++](wangdaokaoyan/Ch2_%E6%9A%B4%E5%8A%9B%E6%B1%82%E8%A7%A3/example2-1.cpp)| | 2022.12.31|
 |2|[example2-2:反序数](http://t.cn/E9WBrut) | [C++](wangdaokaoyan/Ch2_%E6%9A%B4%E5%8A%9B%E6%B1%82%E8%A7%A3/example2-2.cpp)| Medium | 2022.12.31|
@@ -18,9 +18,9 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |11|[example2-9:剩下的树](http://t.cn/E9ufYo5) | [C++](wangdaokaoyan/Ch2_%E6%9A%B4%E5%8A%9B%E6%B1%82%E8%A7%A3/example2-9.cpp) | Medium | 2023.1.1|
 |12|[example2-10:手机键盘](http://t.cn/E9ulcIc) | [C++](wangdaokaoyan/Ch2_%E6%9A%B4%E5%8A%9B%E6%B1%82%E8%A7%A3/example2-10.cpp) | Medium | 2023.1.1|
 |13|[example2-11:xxx定律](http://t.cn/E937wDs) | [C++](wangdaokaoyan/Ch2_%E6%9A%B4%E5%8A%9B%E6%B1%82%E8%A7%A3/example2-11.cpp) | Easy | 2023.1.1|
-|14|[example3-1:排序](http://t.cn/E9dLx5K) |[C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-1.cpp) | Difficult |2023.1.1|
+|14|[example3-1:排序](http://t.cn/E9dLx5K) |[C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-1.cpp) | Hard |2023.1.1|
 |15|[example3-2:成绩排序](http://t.cn/E9d3ysv) | [C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-2.cpp) | Medium | 2023.1.1|
-|16|[example3-3:成绩排序2](http://t.cn/E9gyHM1) | [C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-3.cpp) | Difficult | 2023.1.1|
+|16|[example3-3:成绩排序2](http://t.cn/E9gyHM1) | [C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-3.cpp) | Hard | 2023.1.1|
 |17|[example3-4:找x](http://t.cn/E9gHFnS) | [C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-4.cpp) | Easy | 2023.1.1|
 |18|[example3-5:查找](http://t.cn/E9g8aaR) | [C++](wangdaokaoyan/Ch3_%E6%8E%92%E5%BA%8F%E4%B8%8E%E6%9F%A5%E6%89%BE/example3-5.cpp) | Easy | 2023.1.1|
 |19|[example4-1:特殊乘法](http://t.cn/Ai8by9vW) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-1.cpp) | Easy | 2023.1.1|
@@ -28,5 +28,15 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |21|[example4-3:简单密码](http://t.cn/Ai8bih2z) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-3.cpp) | Easy | 2023.1.1|
 |22|[example4-4:统计字符](http://t.cn/Ai8fvq4I) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-4.cpp)| Easy | 2023.1.1|
 |23|[example4-5:字母统计](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) | Easy | 2023.1.2|
-|24|[example4-5:字母统计(2)](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) | Easy | 2023.1.2|
+|24|[example4-5:字母统计(2)](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) |[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/**example5**-1.cpp) Easy | 2023.1.2|
+|25|[example5-1:完数和盈数](http://t.cn/AiKEyQWW) | [C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/**example5**-1.cpp) | Hard | 2023.1.28|
+|26|example5-2:约瑟夫问题 No.2|[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-2.cpp)| |2023.1.28|
+|27|example5-2:约瑟夫问题 No.2(2)|[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-2(2).cpp) | |2023.1.28|
+|28|example5-3:猫狗收容所 | [C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-3.cpp) | |2023.1.28|
+|29|[example5-4:Zero-complexity Transposition](http://t.cn/AiKa20bt)| [C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-4.cpp) | Easy | 2023.1.28|
+|30|example5-5:括号匹配问题|[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-5.cpp)| | 2023.1.28|
+|31|[example5-6:简单计算器](http://t.cn/AiKoGS94)|[C++](wangdaokaoyan/Ch5_shuju_1/example5-6.cpp) | Hard | 2023.1.29|
+|32|[example6-1:二进制数](http://t.cn/AiCuKTOv)|[C++](wangdaokaoyan/Ch6_%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/example6-1.cpp) | Medium | 2023.1.30|
+|33|[example6-2:进制转换](http://t.cn/AiCuoPRO)|[C++](wangdaokaoyan/Ch6_%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/example6-2.cpp) | Hard | 2023.1.30|
+|34|[example6-3:十进制与二进制](http://t.cn/AiCuoHKg)|[C++](wangdaokaoyan/Ch6_math_quetion/example6-3.cpp)|Hard |2023.1.30|
 
