@@ -39,4 +39,12 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |32|[example6-1:二进制数](http://t.cn/AiCuKTOv)|[C++](wangdaokaoyan/Ch6_%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/example6-1.cpp) | Medium | 2023.1.30|
 |33|[example6-2:进制转换](http://t.cn/AiCuoPRO)|[C++](wangdaokaoyan/Ch6_%E6%95%B0%E5%AD%A6%E9%97%AE%E9%A2%98/example6-2.cpp) | Hard | 2023.1.30|
 |34|[example6-3:十进制与二进制](http://t.cn/AiCuoHKg)|[C++](wangdaokaoyan/Ch6_math_quetion/example6-3.cpp)|Hard |2023.1.30|
-
+|35|[example6-4:进制转换2](http://t.cn/AiCuKG7E) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-4.cpp) | Medium | 2023.2.1|
+|36|[example6-5:最大公约数](http://t.cn/AiCuWLTS) |[C++](wangdaokaoyan/Ch6_math_quetion/example6-5.cpp)|Easy | 2023.2.2|
+|37|example6-6:最小公倍数|[C++](wangdaokaoyan/Ch6_math_quetion/example6-6.cpp) | | 2023.2.16|
+|38|[example6-7:素数判定](http://t.cn/AiCuWE0Q)|[C++](wangdaokaoyan/Ch6_math_quetion/example6-7.cpp) | Medium | 2023.2.16|
+|39|[example6-8:素数](http://t.cn/AiCulqtW) |[C++](wangdaokaoyan/Ch6_math_quetion/example6-8.cpp) | Hard|2023.2.16|
+|40|[example6-9:质因数的个数](http://t.cn/Aip7J0Oo)|[C++](wangdaokaoyan/Ch6_math_quetion/example6-9.cpp)| Hard | 2023.2.16|
+|41|example6-10:人见人爱A^B|[C++](wangdaokaoyan/Ch6_math_quetion/example6-10.cpp)| | 2023.2.16|
+|42|[example6-11:计算两个矩阵的乘积](http://t.cn/Aip450PJ) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-11.cpp) | Easy | 2023.2.17|
+|43|[example6-12:矩阵幂](http://t.cn/Aip4T3HX) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-12.cpp) | Medium | 2023.2.17|
