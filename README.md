@@ -48,3 +48,15 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |41|example6-10:人见人爱A^B|[C++](wangdaokaoyan/Ch6_math_quetion/example6-10.cpp)| | 2023.2.16|
 |42|[example6-11:计算两个矩阵的乘积](http://t.cn/Aip450PJ) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-11.cpp) | Easy | 2023.2.17|
 |43|[example6-12:矩阵幂](http://t.cn/Aip4T3HX) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-12.cpp) | Medium | 2023.2.17|
+|44|[example6-13:a+b](http://t.cn/AipaWiSG) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-13.cpp) | Hard | 2023.2.27|
+|45|[example6-14:N的阶乘](http://t.cn/AipaBKQJ) | [C++](wangdaokaoyan/Ch6_math_quetion/example6-14.cpp) | Medium | 2023.2.27|
+|46|[example7-1:鸡兔同笼](http://t.cn/E9ewERU) | [C++](wangdaokaoyan/Ch7_greedy/example7-1.cpp) | Medium | 2023.2.28|
+|47|[example7-2:代理服务器](http://t.cn/E9emuS9) | [C++](wangdaokaoyan/Ch7_greedy/example7-2.cpp) | Hard | 2023.2.28|
+|48|example7-3:今年暑假不AC | [C++](wangdaokaoyan/Ch7_greedy/example7-3.cpp)| |2023.2.28|
+
+
+## leedcode题库
+| cnt | Problem | Solution | Hardy | Date |
+| :---: | :---- | :---- | :---- | :----:|
+|1|1.两数之和|[C++](leedcode/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | Easy| 2023.2.28|
+|2|11.盛最多水的容器|[C++](leedcode/11.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.cpp) | Medium | 2023.2.28|
