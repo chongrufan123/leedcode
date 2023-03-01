@@ -53,6 +53,12 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |46|[example7-1:鸡兔同笼](http://t.cn/E9ewERU) | [C++](wangdaokaoyan/Ch7_greedy/example7-1.cpp) | Medium | 2023.2.28|
 |47|[example7-2:代理服务器](http://t.cn/E9emuS9) | [C++](wangdaokaoyan/Ch7_greedy/example7-2.cpp) | Hard | 2023.2.28|
 |48|example7-3:今年暑假不AC | [C++](wangdaokaoyan/Ch7_greedy/example7-3.cpp)| |2023.2.28|
+|49|[example8-1:n的阶乘](http://t.cn/Ai0ocOUY) | [C++](wangdaokaoyan/ch8_recursive/example8-1.cpp) | Easy | 2023.3.1|
+|50|example8-2:汉诺塔3 | [C++](wangdaokaoyan/ch8_recursive/example8-2.cpp) | | 2023.3.1|
+|51|[example8-3:全排列](http://t.cn/Ai0K0hXZ) | [C++](wangdaokaoyan/ch8_recursive/example8-3.cpp) | Hard| 2023.3.1|
+|52|[example8-4:Fibonacci](http://t.cn/Ai0K3tU5) | [C++](wangdaokaoyan/ch8_recursive/example8-4.cpp) | Easy | 2023.3.1|
+|53|[example8-5:二叉树](http://t.cn/Ai0Ke6I0) | [C++](wangdaokaoyan/ch8_recursive/example8-5.cpp) | Medium | 2023.3.1|
+
 
 
 ## leedcode题库
