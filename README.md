@@ -58,6 +58,9 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |51|[example8-3:全排列](http://t.cn/Ai0K0hXZ) | [C++](wangdaokaoyan/ch8_recursive/example8-3.cpp) | Hard| 2023.3.1|
 |52|[example8-4:Fibonacci](http://t.cn/Ai0K3tU5) | [C++](wangdaokaoyan/ch8_recursive/example8-4.cpp) | Easy | 2023.3.1|
 |53|[example8-5:二叉树](http://t.cn/Ai0Ke6I0) | [C++](wangdaokaoyan/ch8_recursive/example8-5.cpp) | Medium | 2023.3.1|
+|54|example9-1:catch that cow| [C++](wangdaokaoyan/ch9_search/example9-1.cpp) | | 2023.3.2|
+|55|example9-2:find the multiple | [C++](wangdaokaoyan/ch9_search/example9-2.cpp) | | 2023.3.2|
+|56|[example9-3:神奇的口袋](http://t.cn/Ai0u0GUz) | [C++](wangdaokaoyan/ch9_search/example9-3.cpp) | Easy | 2023.3.2|
 
 
 
@@ -66,3 +69,6 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 | :---: | :---- | :---- | :---- | :----:|
 |1|1.两数之和|[C++](leedcode/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | Easy| 2023.2.28|
 |2|11.盛最多水的容器|[C++](leedcode/11.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.cpp) | Medium | 2023.2.28|
+|3|21.合并两个有序链表|[C++](leedcode/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.cpp) | Easy | 2023.3.2|
+|4|160.相交链表|[C++](leedcode/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp) | Easy | 2023.3.2|
+|5|206.反转链表|[C++]（leedcode/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)| Easy | 2023.3.2|
