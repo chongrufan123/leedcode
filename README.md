@@ -61,6 +61,11 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |54|example9-1:catch that cow| [C++](wangdaokaoyan/ch9_search/example9-1.cpp) | | 2023.3.2|
 |55|example9-2:find the multiple | [C++](wangdaokaoyan/ch9_search/example9-2.cpp) | | 2023.3.2|
 |56|[example9-3:神奇的口袋](http://t.cn/Ai0u0GUz) | [C++](wangdaokaoyan/ch9_search/example9-3.cpp) | Easy | 2023.3.2|
+|57|[example10-1:二叉树遍历](http://t.cn/AiKuUTIX) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-1.cpp) | Hard | 2023.3.5|
+|58|[example10-2:二叉树遍历](http://t.cn/AiKgDfLU) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-2.cpp) | Medium | 2023.3.5|
+|59|[example10-3:二叉树排序](http://t.cn/Ai9PAkkv) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-3.cpp) | Medium | 2023.3.5|
+|60|[example10-4:二叉排序树](http://t.cn/AiKD0L5V) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-4.cpp) | Hard | 2023.3.5|
+|60|[example10-5:复数集合](http://t.cn/Ai98yYlt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-5.cpp) | Hard | 2023.3.5|
 
 
 
