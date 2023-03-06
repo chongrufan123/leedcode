@@ -65,8 +65,11 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |58|[example10-2:二叉树遍历](http://t.cn/AiKgDfLU) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-2.cpp) | Medium | 2023.3.5|
 |59|[example10-3:二叉树排序](http://t.cn/Ai9PAkkv) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-3.cpp) | Medium | 2023.3.5|
 |60|[example10-4:二叉排序树](http://t.cn/AiKD0L5V) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-4.cpp) | Hard | 2023.3.5|
-|60|[example10-5:复数集合](http://t.cn/Ai98yYlt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-5.cpp) | Hard | 2023.3.5|
-
+|61|[example10-5:复数集合](http://t.cn/Ai98yYlt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-5.cpp) | Hard | 2023.3.5|
+|62|[example10-6:哈夫曼树](http://t.cn/AiCuGMki) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-6.cpp) | Medium | 2023.3.6|
+|63|[example10-7:查找学生信息](http://t.cn/AiCuvIuY) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-7.cpp) | Medium | 2023.3.6|
+|64|[example10-8:魔咒词典](http://t.cn/AiCufczt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-8.cpp) | Medium | 2023.3.6|
+|65|[example10-9:子串计算](http://t.cn/AiCuJtI5) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-9.cpp) | Easy | 2023.3.6|
 
 
 ## leedcode题库
