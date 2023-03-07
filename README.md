@@ -70,8 +70,11 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |63|[example10-7:查找学生信息](http://t.cn/AiCuvIuY) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-7.cpp) | Medium | 2023.3.6|
 |64|[example10-8:魔咒词典](http://t.cn/AiCufczt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-8.cpp) | Medium | 2023.3.6|
 |65|[example10-9:子串计算](http://t.cn/AiCuJtI5) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-9.cpp) | Easy | 2023.3.6|
+|66|[example11-1:畅通工程](wangdaokaoyan/ch11_graph/example11-1.cpp) | [C++](wangdaokaoyan/ch11_graph/example11-1.cpp)|http://t.cn/Ai0vBHj9| Hard | 2023.03.07 |
+|67|[example11-2:连通图](wangdaokaoyan/ch11_graph/example11-2.cpp) | [C++](wangdaokaoyan/ch11_graph/example11-2.cpp)|http://t.cn/Ai077VoA| Medium | 2023.03.07 |
+|68|[example11-3:Is it a tree?](wangdaokaoyan/ch11_graph/example11-3.cpp) | [C++](wangdaokaoyan/ch11_graph/example11-3.cpp)|http://t.cn/Ai07FyDO| Medium | 2023.03.07 |
 
-
+---
 ## leedcode题库
 | cnt | Problem | Solution | Hardy | Date |
 | :---: | :---- | :---- | :---- | :----:|
