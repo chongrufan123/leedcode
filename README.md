@@ -70,9 +70,13 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |63|[example10-7:查找学生信息](http://t.cn/AiCuvIuY) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-7.cpp) | Medium | 2023.3.6|
 |64|[example10-8:魔咒词典](http://t.cn/AiCufczt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-8.cpp) | Medium | 2023.3.6|
 |65|[example10-9:子串计算](http://t.cn/AiCuJtI5) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-9.cpp) | Easy | 2023.3.6|
-|66|[example11-1:畅通工程](wangdaokaoyan/ch11_graph/example11-1.cpp) | [C++](wangdaokaoyan/ch11_graph/example11-1.cpp)|http://t.cn/Ai0vBHj9| Hard | 2023.03.07 |
-|67|[example11-2:连通图](wangdaokaoyan/ch11_graph/example11-2.cpp) | [C++](wangdaokaoyan/ch11_graph/example11-2.cpp)|http://t.cn/Ai077VoA| Medium | 2023.03.07 |
-|68|[example11-3:Is it a tree?](wangdaokaoyan/ch11_graph/example11-3.cpp) | [C++](wangdaokaoyan/ch11_graph/example11-3.cpp)|http://t.cn/Ai07FyDO| Medium | 2023.03.07 |
+|66|[example11-1](http://t.cn/Ai0vBHj9) | [C++](wangdaokaoyan/ch11_graph/example11-1.cpp)| Hard | 2023.03.07 |
+|67|[example11-2](http://t.cn/Ai077VoA) | [C++](wangdaokaoyan/ch11_graph/example11-2.cpp)| Medium | 2023.03.07 |
+|68|[example11-3](http://t.cn/Ai07FyDO) | [C++](wangdaokaoyan/ch11_graph/example11-3.cpp)| Medium | 2023.03.07 |
+|69|[example11-4](http://t.cn/AiWud0C6) | [C++](wangdaokaoyan/ch11_graph/example11-4.cpp)| Easy | 2023.03.08 |
+|70|[example11-5](http://t.cn/AiW3fcfp) | [C++](wangdaokaoyan/ch11_graph/example11-5.cpp)| Medium | 2023.03.08 |
+|71|[example11-6]() | [C++](wangdaokaoyan/ch11_graph/example11-6.cpp)|  | 2023.03.08 |
+|72|[example11-7](http://t.cn/AilPbME2) | [C++](wangdaokaoyan/ch11_graph/example11-7.cpp)| Hard | 2023.03.08 |
 
 ---
 ## leedcode题库
