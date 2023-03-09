@@ -28,8 +28,8 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |21|[example4-3:简单密码](http://t.cn/Ai8bih2z) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-3.cpp) | Easy | 2023.1.1|
 |22|[example4-4:统计字符](http://t.cn/Ai8fvq4I) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-4.cpp)| Easy | 2023.1.1|
 |23|[example4-5:字母统计](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) | Easy | 2023.1.2|
-|24|[example4-5:字母统计(2)](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) |[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/**example5**-1.cpp) Easy | 2023.1.2|
-|25|[example5-1:完数和盈数](http://t.cn/AiKEyQWW) | [C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/**example5**-1.cpp) | Hard | 2023.1.28|
+|24|[example4-5:字母统计(2)](http://t.cn/Ai8VB72e) | [C++](wangdaokaoyan/Ch4_%E5%AD%97%E7%AC%A6%E4%B8%B2/example4-5.cpp) | Easy | 2023.1.2|
+|25|[example5-1:完数和盈数](http://t.cn/AiKEyQWW) | [C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-1.cpp) | Hard | 2023.1.28|
 |26|example5-2:约瑟夫问题 No.2|[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-2.cpp)| |2023.1.28|
 |27|example5-2:约瑟夫问题 No.2(2)|[C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-2(2).cpp) | |2023.1.28|
 |28|example5-3:猫狗收容所 | [C++](wangdaokaoyan/Ch5_%E6%95%B0%E6%8D%AE%E7%BB%93%E6%9E%84%E4%B8%80/example5-3.cpp) | |2023.1.28|
@@ -70,20 +70,22 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |63|[example10-7:查找学生信息](http://t.cn/AiCuvIuY) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-7.cpp) | Medium | 2023.3.6|
 |64|[example10-8:魔咒词典](http://t.cn/AiCufczt) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-8.cpp) | Medium | 2023.3.6|
 |65|[example10-9:子串计算](http://t.cn/AiCuJtI5) | [C++](wangdaokaoyan/ch10_data_strcture2/example10-9.cpp) | Easy | 2023.3.6|
-|66|[example11-1](http://t.cn/Ai0vBHj9) | [C++](wangdaokaoyan/ch11_graph/example11-1.cpp)| Hard | 2023.03.07 |
-|67|[example11-2](http://t.cn/Ai077VoA) | [C++](wangdaokaoyan/ch11_graph/example11-2.cpp)| Medium | 2023.03.07 |
-|68|[example11-3](http://t.cn/Ai07FyDO) | [C++](wangdaokaoyan/ch11_graph/example11-3.cpp)| Medium | 2023.03.07 |
-|69|[example11-4](http://t.cn/AiWud0C6) | [C++](wangdaokaoyan/ch11_graph/example11-4.cpp)| Easy | 2023.03.08 |
-|70|[example11-5](http://t.cn/AiW3fcfp) | [C++](wangdaokaoyan/ch11_graph/example11-5.cpp)| Medium | 2023.03.08 |
-|71|[example11-6]() | [C++](wangdaokaoyan/ch11_graph/example11-6.cpp)|  | 2023.03.08 |
-|72|[example11-7](http://t.cn/AilPbME2) | [C++](wangdaokaoyan/ch11_graph/example11-7.cpp)| Hard | 2023.03.08 |
+|66|[example11-1:畅通工程](http://t.cn/Ai0vBHj9) | [C++](wangdaokaoyan/ch11_graph/example11-1.cpp)| Hard | 2023.03.07 |
+|67|[example11-2:连通图](http://t.cn/Ai077VoA) | [C++](wangdaokaoyan/ch11_graph/example11-2.cpp)| Medium | 2023.03.07 |
+|68|[example11-3:Is it a tree?](http://t.cn/Ai07FyDO) | [C++](wangdaokaoyan/ch11_graph/example11-3.cpp)| Medium | 2023.03.07 |
+|69|[example11-4:还是畅通工程](http://t.cn/AiWud0C6) | [C++](wangdaokaoyan/ch11_graph/example11-4.cpp)| Easy | 2023.03.08 |
+|70|[example11-5:继续畅通工程](http://t.cn/AiW3fcfp) | [C++](wangdaokaoyan/ch11_graph/example11-5.cpp)| Medium | 2023.03.08 |
+|71|[example11-6:畅通工程续]() | [C++](wangdaokaoyan/ch11_graph/example11-6.cpp)|  | 2023.03.08 |
+|72|[example11-7:最短路径问题](http://t.cn/AilPbME2) | [C++](wangdaokaoyan/ch11_graph/example11-7.cpp)| Hard | 2023.03.08 |
+|73|[example11-8:Legal or Not]() | [C++](wangdaokaoyan/ch11_graph/example11-8.cpp)|  | 2023.03.09 |
+|74|[example11-9:确定比赛名次]() | [C++](wangdaokaoyan/ch11_graph/example11-9.cpp)|  | 2023.03.09 |
 
 ---
 ## leedcode题库
 | cnt | Problem | Solution | Hardy | Date |
 | :---: | :---- | :---- | :---- | :----:|
-|1|1.两数之和|[C++](leedcode/1.%E4%B8%A4%E6%95%B0%E4%B9%8B%E5%92%8C.cpp) | Easy| 2023.2.28|
-|2|11.盛最多水的容器|[C++](leedcode/11.%E7%9B%9B%E6%9C%80%E5%A4%9A%E6%B0%B4%E7%9A%84%E5%AE%B9%E5%99%A8.cpp) | Medium | 2023.2.28|
-|3|21.合并两个有序链表|[C++](leedcode/21.%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.cpp) | Easy | 2023.3.2|
-|4|160.相交链表|[C++](leedcode/160.%E7%9B%B8%E4%BA%A4%E9%93%BE%E8%A1%A8.cpp) | Easy | 2023.3.2|
-|5|206.反转链表|[C++]（leedcode/206.%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.cpp)| Easy | 2023.3.2|
+|1|1.两数之和|C++| Easy| 2023.2.28|
+|2|11.盛最多水的容器|C++| Medium | 2023.2.28|
+|3|21.合并两个有序链表|C++ | Easy | 2023.3.2|
+|4|160.相交链表|C++| Easy | 2023.3.2|
+|5|206.反转链表|C++| Easy | 2023.3.2|
