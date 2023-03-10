@@ -52,3 +52,4 @@ int main(){
         else mem.erase(mem.begin(), mem.end());
     }
 }
+

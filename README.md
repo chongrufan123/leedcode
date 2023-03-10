@@ -79,6 +79,10 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |72|[example11-7:最短路径问题](http://t.cn/AilPbME2) | [C++](wangdaokaoyan/ch11_graph/example11-7.cpp)| Hard | 2023.03.08 |
 |73|[example11-8:Legal or Not]() | [C++](wangdaokaoyan/ch11_graph/example11-8.cpp)|  | 2023.03.09 |
 |74|[example11-9:确定比赛名次]() | [C++](wangdaokaoyan/ch11_graph/example11-9.cpp)|  | 2023.03.09 |
+|75|[example12-1:N阶楼梯上楼问题](http://t.cn/Aij9Fr3V) | [C++](wangdaokaoyan/ch12_Dynamic/example12-1.cpp)| Hard | 2023.03.10 |
+|76|[example12-2:最大序列和](http://t.cn/AiYS1QMU) | [C++](wangdaokaoyan/ch12_Dynamic/example12-2.cpp)| Medium | 2023.03.10 |
+|77|[example12-3:最大子矩阵](https://www.nowcoder.com/practice/a5a0b05f0505406ca837a3a76a5419b3) | [C++](wangdaokaoyan/ch12_Dynamic/example12-3.cpp)| Hard | 2023.03.10 |
+|78|[example12-4:拦截导弹](http://t.cn/AiYCeV3m) | [C++](wangdaokaoyan/ch12_Dynamic/example12-4.cpp)| Medium | 2023.03.10 |
 
 ---
 ## leedcode题库
