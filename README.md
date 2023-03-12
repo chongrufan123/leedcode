@@ -83,11 +83,14 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |76|[example12-2:最大序列和](http://t.cn/AiYS1QMU) | [C++](wangdaokaoyan/ch12_Dynamic/example12-2.cpp)| Medium | 2023.03.10 |
 |77|[example12-3:最大子矩阵](https://www.nowcoder.com/practice/a5a0b05f0505406ca837a3a76a5419b3) | [C++](wangdaokaoyan/ch12_Dynamic/example12-3.cpp)| Hard | 2023.03.10 |
 |78|[example12-4:拦截导弹](http://t.cn/AiYCeV3m) | [C++](wangdaokaoyan/ch12_Dynamic/example12-4.cpp)| Medium | 2023.03.10 |
+|79|[example12-5:最大上升子序列和](http://t.cn/AiYNAGD3) | [C++](wangdaokaoyan/ch12_Dynamic/example12-5.cpp)| Easy | 2023.03.12 |
+|80|[example12-6:Common Subsequence]() | [C++](wangdaokaoyan/ch12_Dynamic/example12-6.cpp)|  | 2023.03.12 |
+|81|[example12-7:点菜问题](http://t.cn/AiYOrkXr) | [C++](wangdaokaoyan/ch12_Dynamic/example12-7.cpp)| Medium | 2023.03.12 |
 
 ---
 ## leedcode题库
 | cnt | Problem | Solution | Hardy | Date |
-| :---: | :---- | :---- | :---- | :----:|
+| :---: | :---- | :---- | :---- | :----:|™
 |1|1.两数之和|C++| Easy| 2023.2.28|
 |2|11.盛最多水的容器|C++| Medium | 2023.2.28|
 |3|21.合并两个有序链表|C++ | Easy | 2023.3.2|
