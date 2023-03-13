@@ -85,9 +85,18 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |78|[example12-4:拦截导弹](http://t.cn/AiYCeV3m) | [C++](wangdaokaoyan/ch12_Dynamic/example12-4.cpp)| Medium | 2023.03.10 |
 |79|[example12-5:最大上升子序列和](http://t.cn/AiYNAGD3) | [C++](wangdaokaoyan/ch12_Dynamic/example12-5.cpp)| Easy | 2023.03.12 |
 |80|[example12-6:Common Subsequence]() | [C++](wangdaokaoyan/ch12_Dynamic/example12-6.cpp)|  | 2023.03.12 |
-|81|[example12-7:点菜问题](http://t.cn/AiYOrkXr) | [C++](wangdaokaoyan/ch12_Dynamic/example12-7.cpp)| Medium | 2023.03.12 |
+|81|[example12-7:点菜问题](http://t.cn/AiYOrkXr) | [C++](wangdaokaoyan/ch12_Dynamiaaac/example12-7.cpp)| Medium | 2023.03.12 |
 
 ---
+
+## 历年计算机考研复试上机题
+|1|[KY10:球的半径和体积](https://www.nowcoder.com/practice/4b733a850c364c32b368555c8c2ec96b) | [C++](exam_bank//KY10.cpp)| Hard | 2023.03.13 |
+|2|[KY3:约数的个数](https://www.nowcoder.com/practice/04c8a5ea209d41798d23b59f053fa4d6) | [C++](exam_bank//KY3.cpp)| Hard | 2023.03.13 |
+|3|[KY5:反序输出](https://www.nowcoder.com/practice/171278d170c64d998ab342b3b40171bb) | [C++](exam_bank//KY5.cpp)| Medium | 2023.03.13 |
+|4|[KY8:整数拆分](https://www.nowcoder.com/practice/376537f4609a49d296901db5139639ec) | [C++](exam_bank//KY8.cpp)| Medium | 2023.03.13 |
+
+---
+
 ## leedcode题库
 | cnt | Problem | Solution | Hardy | Date |
 | :---: | :---- | :---- | :---- | :----:|™
