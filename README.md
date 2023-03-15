@@ -90,12 +90,20 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 ---
 
 ## 历年计算机考研复试上机题
-|1|[KY10:球的半径和体积](https://www.nowcoder.com/practice/4b733a850c364c32b368555c8c2ec96b) | [C++](exam_bank//KY10.cpp)| Hard | 2023.03.13 |
-|2|[KY3:约数的个数](https://www.nowcoder.com/practice/04c8a5ea209d41798d23b59f053fa4d6) | [C++](exam_bank//KY3.cpp)| Hard | 2023.03.13 |
-|3|[KY5:反序输出](https://www.nowcoder.com/practice/171278d170c64d998ab342b3b40171bb) | [C++](exam_bank//KY5.cpp)| Medium | 2023.03.13 |
-|4|[KY8:整数拆分](https://www.nowcoder.com/practice/376537f4609a49d296901db5139639ec) | [C++](exam_bank//KY8.cpp)| Medium | 2023.03.13 |
+|1|[KY10:球的半径和体积](https://www.nowcoder.com/practice/4b733a850c364c32b368555c8c2ec96b) | [C++](exam_bank/KY10.cpp)| Hard | 2023.03.13 |
+|2|[KY3:约数的个数](https://www.nowcoder.com/practice/04c8a5ea209d41798d23b59f053fa4d6) | [C++](exam_bank/KY3.cpp)| Hard | 2023.03.13 |
+|3|[KY5:反序输出](https://www.nowcoder.com/practice/171278d170c64d998ab342b3b40171bb) | [C++](exam_bank/KY5.cpp)| Medium | 2023.03.13 |
+|4|[KY8:整数拆分](https://www.nowcoder.com/practice/376537f4609a49d296901db5139639ec) | [C++](exam_bank/KY8.cpp)| Medium | 2023.03.13 |
+|5|[KY12:玛雅人的密码](https://www.nowcoder.com/practice/761fc1e2f03742c2aa929c19ba96dbb0) | [C++](exam_bank/KY12.cpp)| Hard | 2023.03.14 |
+|6|[KY13:求最大最小数](https://www.nowcoder.com/practice/82e5ff335eeb486aab359767895cc7b4) | [C++](exam_bank/KY13.cpp)| Medium | 2023.03.14 |
+|7|[KY14:最小邮票数](https://www.nowcoder.com/practice/83800ae3292b4256b7349ded5f178dd1) | [C++](exam_bank/KY14.cpp)| Hard | 2023.03.14 |
+|8|[bupt_1:查找第K小数](https://www.nowcoder.com/practice/204dfa6fcbc8478f993d23f693189ffd) | [C++](exam_bank/bupt_1.cpp)| Hard | 2023.03.15 |
+|9|[bupt_2:打牌](https://www.nowcoder.com/practice/82442ee76977479e8ab4b88dfadfca9f) | [C++](exam_bank/bupt_2.cpp)| Hard | 2023.03.15 |
+|10|[bupt_3:树查找](https://www.nowcoder.com/practice/9a10d5e7d99c45e2a462644d46c428e4) | [C++](exam_bank/bupt_3.cpp)| Hard | 2023.03.15 |
+|11|[bupt_4:找最小数](https://www.nowcoder.com/practice/ba91786c4759403992896d859e87a6cd) | [C++](exam_bank/bupt_4.cpp)| Easy | 2023.03.15 |
+|12|[bupt_5:查找](https://www.nowcoder.com/practice/a988eda518f242c29009f8620f654ede) | [C++](exam_bank/bupt_5.cpp)| Hard | 2023.03.15 |
 
----
+----
 
 ## leedcode题库
 | cnt | Problem | Solution | Hardy | Date |
