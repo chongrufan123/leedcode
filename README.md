@@ -90,6 +90,8 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 ---
 
 ## 历年计算机考研复试上机题
+| cnt | Problem | Solution | Hardy | Date |
+| :---: | :---- | :---- | :---- | :----:|
 |1|[KY10:球的半径和体积](https://www.nowcoder.com/practice/4b733a850c364c32b368555c8c2ec96b) | [C++](exam_bank/KY10.cpp)| Hard | 2023.03.13 |
 |2|[KY3:约数的个数](https://www.nowcoder.com/practice/04c8a5ea209d41798d23b59f053fa4d6) | [C++](exam_bank/KY3.cpp)| Hard | 2023.03.13 |
 |3|[KY5:反序输出](https://www.nowcoder.com/practice/171278d170c64d998ab342b3b40171bb) | [C++](exam_bank/KY5.cpp)| Medium | 2023.03.13 |
