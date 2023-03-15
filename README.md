@@ -104,6 +104,10 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |10|[bupt_3:树查找](https://www.nowcoder.com/practice/9a10d5e7d99c45e2a462644d46c428e4) | [C++](exam_bank/bupt_3.cpp)| Hard | 2023.03.15 |
 |11|[bupt_4:找最小数](https://www.nowcoder.com/practice/ba91786c4759403992896d859e87a6cd) | [C++](exam_bank/bupt_4.cpp)| Easy | 2023.03.15 |
 |12|[bupt_5:查找](https://www.nowcoder.com/practice/a988eda518f242c29009f8620f654ede) | [C++](exam_bank/bupt_5.cpp)| Hard | 2023.03.15 |
+|13|[KY29:谁是你的潜在朋友](https://www.nowcoder.com/practice/0177394fb25b42b48657bc2b1c6f9fcc) | [C++](exam_bank/KY29.cpp)| Medium | 2023.03.16 |
+|14|[KY32:日志排序](https://www.nowcoder.com/practice/0f64518fea254c0187ccf0ea05019672) | [C++](exam_bank/KY32.cpp)| Medium | 2023.03.16 |
+|15|[KY35:最简真分数](https://www.nowcoder.com/practice/1f1db273eeb745c6ac83e91ff14d2ec9) | [C++](exam_bank/KY35.cpp)| Medium | 2023.03.16 |
+|16|[KY36:中位数](https://www.nowcoder.com/practice/2364ff2463984f09904170cf6f67f69a) | [C++](exam_bank/KY36.cpp)| Medium | 2023.03.16 |
 
 ----
 
