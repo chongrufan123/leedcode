@@ -108,6 +108,12 @@ self-motivated leetcode solutions for practice and Postgraduate entrance examina
 |14|[KY32:日志排序](https://www.nowcoder.com/practice/0f64518fea254c0187ccf0ea05019672) | [C++](exam_bank/KY32.cpp)| Medium | 2023.03.16 |
 |15|[KY35:最简真分数](https://www.nowcoder.com/practice/1f1db273eeb745c6ac83e91ff14d2ec9) | [C++](exam_bank/KY35.cpp)| Medium | 2023.03.16 |
 |16|[KY36:中位数](https://www.nowcoder.com/practice/2364ff2463984f09904170cf6f67f69a) | [C++](exam_bank/KY36.cpp)| Medium | 2023.03.16 |
+|17|[KY21:递推数列](https://www.nowcoder.com/practice/d0e751eac618463bb6ac447369e4aa25) | [C++](exam_bank/KY21.cpp)| Hard | 2023.03.17 |
+|18|[KY23:最小花费](https://www.nowcoder.com/practice/e6df3e3005e34e2598b9b565cfe797c9) | [C++](exam_bank/KY23.cpp)| Medium | 2023.03.19 |
+|19|[KY37:小白鼠排队](https://www.nowcoder.com/practice/27fbaa6c7b2e419bbf4de8ba60cf372b) | [C++](exam_bank/KY37.cpp)| Easy | 2023.03.19 |
+|20|[KY39:大整数的因子](https://www.nowcoder.com/practice/3d6cee12fbf54ea99bb165cbaba5823d) | [C++](exam_bank/KY39.cpp)| Medium | 2023.03.19 |
+|21|[KY41:放苹果](https://www.nowcoder.com/practice/4f0c1e21010e4d849bde5297148e81d9) | [C++](exam_bank/KY41.cpp)| Easy | 2023.03.19 |
+|22|[KY43:skew数](https://www.nowcoder.com/practice/5928127cc6604129923346e955e75984) | [C++](exam_bank/KY43.cpp)| Easy | 2023.03.19 |
 
 ----
 
